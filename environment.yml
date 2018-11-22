@@ -8,3 +8,4 @@ dependencies:
   - scipy
   - rise
   - ffmpeg
+  - sympy
